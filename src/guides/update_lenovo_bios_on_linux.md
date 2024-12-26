@@ -1,4 +1,4 @@
-# Update Lenovo Bios on Linux
+# Update Lenovo BIOS on Linux
 
 Use these steps if [fwupd](https://github.com/fwupd/fwupd) does not work to update the firmware from Linux.
 
