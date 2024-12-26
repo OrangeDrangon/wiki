@@ -1,3 +1,7 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+[Introduction](introduction.md)
+
+# Guides
+
+- [Update Lenovo Laptop Bios on Linux](guides/update_lenovo_bios_on_linux.md)
