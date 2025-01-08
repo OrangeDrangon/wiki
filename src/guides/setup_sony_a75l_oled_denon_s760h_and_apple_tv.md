@@ -1,4 +1,4 @@
-# Setup Sony A75L OLED, Denon 760H, and Apple TV
+# Setup Sony A75L OLED, Denon S760H, and Apple TV
 
 Ensure the Apple TV is plugged into one of the 8K ports on your reciever to allow maximum bandwidth. The cables from TV <-> Denon <-> Apple TV should be 8K 60HZ compatible. I have 2 10ft cables from Amazon Basics working fine.
 
@@ -12,7 +12,7 @@ Ensure the Apple TV is plugged into one of the 8K ports on your reciever to allo
 1. HDMI 3
 1. Enhanced format (Dolby Vision)
 
-## Denon 760H Settings
+## Denon S760H Settings
 
 1. Setup
 1. Video
